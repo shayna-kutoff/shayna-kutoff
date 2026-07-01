@@ -3,7 +3,7 @@
 
 I build **clean, efficient backend systems**, design **intelligent data pipelines**, and create **ML‑powered applications** that solve real problems. My work blends **software engineering**, **data science**, and **algorithmic thinking** — with a focus on clarity, reliability, and performance.
 
-<hr style="height:1px; border:none; background:#ddd;">
+⋯
 
 ## 📈 Technical Focus & Interests
 
@@ -83,9 +83,5 @@ A scalable scraping + database pipeline for collecting and organizing global lan
 
 ---
 
-<div align="center">• • •</div>
-
 ## 📫 Connect With Me  
 **GitHub:** [@shayna-kutoff](https://github.com/shayna-kutoff)
-
-

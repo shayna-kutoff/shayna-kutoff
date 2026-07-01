@@ -1,5 +1,5 @@
 # 🚀 Hi, I'm Shayna  
-### Computer Science Student • Software Developer • Data Engineer in Training
+### Computer Science Student • Aspiring Software Developer
 
 I build **clean, efficient backend systems**, design **intelligent data pipelines**, and create **ML‑powered applications** that solve real problems. My work blends **software engineering**, **data science**, and **algorithmic thinking** — with a focus on clarity, reliability, and performance.
 
@@ -31,7 +31,7 @@ I build **clean, efficient backend systems**, design **intelligent data pipeline
 
 ## 📂 Featured Projects
 
-### 🔍 Expense Lens  
+### 🧾 Expense Lens  
 **AI‑Powered Receipt Processing Dashboard**  
 Python • Streamlit • EasyOCR • Ollama  
 **Repo:** (https://github.com/yehudis25/ExpenseLens)

@@ -3,6 +3,14 @@
 
 I build **clean, efficient backend systems**, design **intelligent data pipelines**, and create **ML‑powered applications** that solve real problems. My work blends **software engineering**, **data science**, and **algorithmic thinking** — with a focus on clarity, reliability, and performance.
 
+<hr style="height:1px; border:none; background:#ddd;">
+
+## 📈 Technical Focus & Interests
+
+- 🤖 **Machine Learning Operations:** Model evaluation, AutoML workflows, and comparative tuning  
+- 📐 **Architecture & Clean Code:** Decoupled logic layers, modular pipelines, maintainable systems  
+- 🎨 **Data Visualization:** Turning raw datasets into clear, meaningful visual narratives  
+
 ---
 
 ## 🛠️ Technical Toolbox
@@ -34,7 +42,7 @@ I build **clean, efficient backend systems**, design **intelligent data pipeline
 ### 🧾 Expense Lens  
 **AI‑Powered Receipt Processing Dashboard**  
 Python • Streamlit • EasyOCR • Ollama  
-**Repo:** (https://github.com/yehudis25/ExpenseLens)
+**Repo:** [Expense Lens](https://github.com/yehudis25/ExpenseLens)
 
 Extracts text from raw receipt images using high‑accuracy OCR and converts it into structured JSON using local LLMs. Includes a Streamlit dashboard for visualizing spending patterns and categorizing expenses.
 
@@ -43,7 +51,7 @@ Extracts text from raw receipt images using high‑accuracy OCR and converts it 
 ### 🌍 Global Travel Guide  
 **Automated Landmark Scraper & Database Management System**  
 Python • SQL • SQLite  
-**Repo:**(https://github.com/shayna-kutoff/global_travel_guide)
+**Repo:** [Global Travel Guide](https://github.com/shayna-kutoff/global_travel_guide)
 
 A scalable scraping + database pipeline for collecting and organizing global landmark and travel data. Features robust error handling, data normalization, and optimized indexing for fast retrieval.
 
@@ -76,14 +84,6 @@ A scalable scraping + database pipeline for collecting and organizing global lan
 ---
 
 <div align="center">• • •</div>
-
-## 📈 Technical Focus & Interests
-
-- 🤖 **Machine Learning Operations:** Model evaluation, AutoML workflows, and comparative tuning  
-- 📐 **Architecture & Clean Code:** Decoupled logic layers, modular pipelines, maintainable systems  
-- 🎨 **Data Visualization:** Turning raw datasets into clear, meaningful visual narratives  
-
----
 
 ## 📫 Connect With Me  
 **GitHub:** [@shayna-kutoff](https://github.com/shayna-kutoff)

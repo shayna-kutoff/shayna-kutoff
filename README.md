@@ -49,12 +49,29 @@ A scalable scraping + database pipeline for collecting and organizing global lan
 
 ---
 
-### 🧠 Core Foundations & Algorithms  
-**Data Structures & OS Scheduling Simulations**  
-C# • Python  
-**Repo:** https://github.com/shayna-kutoff/os-simulations
+### 🏪 Store Management System  
+**C# • Windows Forms • Layered Architecture**
 
-A collection of low‑level implementations focused on algorithmic efficiency and operating system behavior. Includes binary trees, heaps, and CPU scheduling simulations (FCFS, SJF, Multilevel Queue).
+- Built a multi‑tier application using a strict layered architecture (UI / BLL / DAL) to clearly separate business logic from data access  
+- Applied OOP principles to create modular, maintainable components across a Windows Forms interface  
+
+---
+
+### 🏠 Real Estate Management System  
+**Microsoft Access • VBA**
+
+- Designed a normalized relational database to manage properties, clients, and transactions  
+- Automated reporting and data workflows using VBA, custom forms, and queries to reduce manual data entry  
+
+---
+
+### 🤖 Machine Learning Projects  
+**Python • Scikit‑Learn • Pandas**
+
+- Developed and evaluated machine learning models for classification and regression using full pipelines for preprocessing, training, and optimization  
+- Applied unsupervised learning techniques (e.g., clustering) to uncover patterns in real‑world datasets  
+- Engineered features and cleaned datasets with Pandas and NumPy to improve model accuracy and reduce noise  
+- Visualized model performance and data distributions using Matplotlib and Seaborn  
 
 ---
 
@@ -69,7 +86,6 @@ A collection of low‑level implementations focused on algorithmic efficiency an
 ---
 
 ## 📫 Connect With Me  
-**GitHub:** [@shayna-kutoff](https://github.com/shayna-kutoff) •  
-**LinkedIn:** *(add your link here)*
+**GitHub:** [@shayna-kutoff](https://github.com/shayna-kutoff)
 
 

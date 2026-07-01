@@ -43,7 +43,7 @@ Extracts text from raw receipt images using high‑accuracy OCR and converts it 
 ### 🌍 Global Travel Guide  
 **Automated Landmark Scraper & Database Management System**  
 Python • SQL • SQLite  
-**Repo:**(https://github.com/yehudis25/ExpenseLens)
+**Repo:**(https://github.com/shayna-kutoff/global_travel_guide)
 
 A scalable scraping + database pipeline for collecting and organizing global landmark and travel data. Features robust error handling, data normalization, and optimized indexing for fast retrieval.
 

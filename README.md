@@ -15,15 +15,26 @@ I build **clean, efficient backend systems**, design **intelligent data pipeline
 | **Frontend & Tools** | Streamlit • Git • GitHub Codespaces |
 
 ---
+## 🧰 Languages & Tools
 
-<div align="center">• • •</div>
+<div align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" height="55" alt="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="55" height="55" alt="C#"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="55" height="55" alt="SQLite"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="55" height="55" alt="Streamlit"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" height="55" alt="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="55" alt="GitHub"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55" height="55" alt="VSCode"/>
+
+</div>
 
 ## 📂 Featured Projects
 
 ### 🔍 Expense Lens  
 **AI‑Powered Receipt Processing Dashboard**  
 Python • Streamlit • EasyOCR • Ollama  
-**Repo:** https://github.com/shayna-kutoff/expense-lens
+**Repo:** (https://github.com/yehudis25/ExpenseLens)
 
 Extracts text from raw receipt images using high‑accuracy OCR and converts it into structured JSON using local LLMs. Includes a Streamlit dashboard for visualizing spending patterns and categorizing expenses.
 

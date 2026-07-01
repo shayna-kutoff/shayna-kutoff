@@ -1,4 +1,4 @@
-# 🚀 Hi, I'm Shayna  
+# Hi 👋, I'm Shayna Kutoff
 ### Computer Science Student • Aspiring Software Developer
 
 I build **clean, efficient backend systems**, design **intelligent data pipelines**, and create **ML‑powered applications** that solve real problems. My work blends **software engineering**, **data science**, and **algorithmic thinking** — with a focus on clarity, reliability, and performance.

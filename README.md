@@ -11,7 +11,7 @@ I build **clean, efficient backend systems**, design **intelligent data pipeline
 - 📐 **Architecture & Clean Code:** Decoupled logic layers, modular pipelines, maintainable systems  
 - 🎨 **Data Visualization:** Turning raw datasets into clear, meaningful visual narratives  
 
----
+<hr style="height:1px; border:none; background:#ddd;">
 
 ## 🛠️ Technical Toolbox
 
